@@ -61,7 +61,7 @@ body {
 }
 
 .card {
-  background-image: url(/public/assets/img/imgLove.jpg);
+  background-image: url(../../public/assets/img/imgLove.jpg);
   background-size: cover; /* Hình ảnh sẽ bao phủ toàn bộ khung, có thể bị cắt */
   background-repeat: no-repeat; /* Không lặp lại hình ảnh */
   background-position: center;
