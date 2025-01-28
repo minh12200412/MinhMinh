@@ -51,7 +51,7 @@ document
         // Xóa lớp mờ dần và thêm lớp hiện dần (fade in)
         container.classList.remove("fade-out");
         const script = document.createElement("script");
-        script.src = "/src/js/jstwo.js";
+        script.src = "../src/js/jstwo.js";
         script.type = "text/javascript";
         document.body.appendChild(script);
       }, 1000); // Thời gian trùng với hiệu ứng mờ dần
