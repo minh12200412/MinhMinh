@@ -35,10 +35,11 @@ document
       setTimeout(() => {
         // Xóa nội dung cũ và thêm nội dung mới
         container.innerHTML = `
+        <div class="sign">
+        <span class="fast-flicker">M</span>YL<span class="flicker">O</span>VE
+      </div>
           <div class="card fade-in">
-            <div class="sign">
-              <span class="fast-flicker">M</span>YL<span class="flicker">O</span>VE
-            </div>
+           
             Trước khi năm mới đến! Anh muốn gửi đôi lời đến em. Người con gái anh thương
             ... Mặc dù thời gian chúng ta quen nhau con hơi ngắn ngủi, thời gian chúng ta bên nhau cũng
             chưa dài. Cảm ơn em vì đã xuất hiện trong thế giới của anh. Anh mong những điều
