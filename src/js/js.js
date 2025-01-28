@@ -39,11 +39,13 @@ document
             <div class="sign">
               <span class="fast-flicker">M</span>YL<span class="flicker">O</span>VE
             </div>
-            Trước khi năm mới đến! Anh muốn gửi đôi lời đến em. Người con gái đặc biệt
-            nhất đời anh... Mặc dù thời gian chúng ta quen nhau còn hơi ngắn ngủi.
-            Nhưng anh cảm ơn em vì đã đến và là một phần hạnh phúc không thể thay thế
-            trong năm nay của Anh. Mong rằng chúng ta sẽ luôn luôn hạnh phúc, yêu
-            thương và luôn vì nhau như vậy thêm nhiều năm sau nữa nhé!
+            Trước khi năm mới đến! Anh muốn gửi đôi lời đến em. Người con gái anh thương
+            ... Mặc dù thời gian chúng ta quen nhau con hơi ngắn ngủi, thời gian chúng ta bên nhau cũng
+            chưa dài. Cảm ơn em vì đã xuất hiện trong thế giới của anh. Anh mong những điều
+            tốt đẹp nhất sẽ luôn đến với em và sau này vẫn như vậy.
+            Mong cho những năm tháng sau này chúng ta vẫn luôn cạnh nhau, yêu thương, lắng nghe,
+            bao dung thứ tha cho nhau. Hãy luôn luôn cạnh nhau thật lâu, thật lâu em nha!. Anh mong rằng
+            em biết một điều là Là Anh Thương Em...Yêu Em Lắm Á..❤️
           </div>
           <script src="/src/js/jstwo.js"></script>
         `;
